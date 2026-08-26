@@ -13,11 +13,11 @@ public class FrameAnimatedString implements AnimatableString {
     }
 
     public FrameAnimatedString(String... frames) {
-        this.frames = Arrays.asList(frames);
+        this.frames = new ArrayList<>(Arrays.asList(frames));
     }
 
     public FrameAnimatedString(List<String> frames) {
-        this.frames = frames;
+        this.frames = new ArrayList<>(frames);
     }
 
     public void addFrame(String string) {

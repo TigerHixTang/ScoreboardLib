@@ -1,4 +1,6 @@
 # Scribe
+
+[![CI](https://github.com/TIGERHIXTANG/Scribe/actions/workflows/ci.yml/badge.svg)](https://github.com/TIGERHIXTANG/Scribe/actions/workflows/ci.yml)
  
  Animated, flicker-free scoreboard library for Paper 1.21+.
  
