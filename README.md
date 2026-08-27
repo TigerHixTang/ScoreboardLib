@@ -1,6 +1,6 @@
 # Scribe
 
-[![CI](https://github.com/TIGERHIXTANG/Scribe/actions/workflows/ci.yml/badge.svg)](https://github.com/TIGERHIXTANG/Scribe/actions/workflows/ci.yml)
+[![CI](https://github.com/TixelTang/Scribe/actions/workflows/ci.yml/badge.svg)](https://github.com/TixelTang/Scribe/actions/workflows/ci.yml)
  
  Animated, flicker-free scoreboard library for Paper 1.21+.
  
@@ -23,7 +23,7 @@
  
  ### Standalone plugin
  
- Download the latest JAR from [Releases](https://github.com/TigerHixTang/Scribe/releases) and place it in your server's `plugins/` directory.
+ Download the latest JAR from [Releases](https://github.com/TixelTang/Scribe/releases) and place it in your server's `plugins/` directory.
  
  ### Library dependency
  
